@@ -1,4 +1,4 @@
 
 
-Compile : g++ avg.cpp -fopenmp
+Compile : g++ Avg.cpp -fopenmp
 	  Run : ./a.out
