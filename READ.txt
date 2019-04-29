@@ -1,4 +1,26 @@
-
+use the following command to execute the codes make changes as per file names
 
 Compile : g++ Avg.cpp -fopenmp
-	  Run : ./a.out
+    Run : ./a.out
+
+
+
+
+
+high performance computing codes 
+openmp is used fofr parallel processing in numbers of threads
+
+
+for calculating the follwing the cpp files are respectively
+
+average   Avg.cpp
+sum    sum.cpp
+maximum value  max.cpp
+minimum value  min.cpp
+matrix multiplication mat_mul.cpp
+vector adddition  vec_add.cpp
+vector matrix multplication  vec_mat_mul.cpp
+bfs parallelprocessing  bfs.cpp
+bsearch parallelprocessing  bsearch.cpp
+bubble sort parallelprocessing bubble.cpp
+merge sort parallelprocessing merge.cpp
